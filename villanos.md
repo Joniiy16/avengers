@@ -2,3 +2,4 @@
 
 * Thanos
 * RedSkull
+* Capitán America
